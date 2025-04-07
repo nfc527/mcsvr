@@ -581,3 +581,22 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [07Apr2025 22:42:10.426] [Server thread/DEBUG] [io.netty.util.ResourceLeakDetectorFactory/]: Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@5088513b
 [07Apr2025 22:47:10.380] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [07Apr2025 22:47:10.392] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Apr2025 22:52:10.372] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Apr2025 22:52:10.391] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Apr2025 22:57:10.371] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Apr2025 22:57:10.387] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Apr2025 23:01:28.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[07Apr2025 23:01:28.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1<--[HERE]
+[07Apr2025 23:01:34.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[07Apr2025 23:01:34.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[07Apr2025 23:01:34.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[07Apr2025 23:01:35.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07Apr2025 23:01:37.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[07Apr2025 23:01:37.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[07Apr2025 23:01:37.239] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Apr2025 23:01:37.244] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Apr2025 23:01:37.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07Apr2025 23:01:37.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07Apr2025 23:01:37.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07Apr2025 23:01:37.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[07Apr2025 23:01:37.267] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER

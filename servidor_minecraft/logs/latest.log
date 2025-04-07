@@ -98,3 +98,15 @@
 [07Apr2025 22:42:10.397] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 25764 ms
 [07Apr2025 22:42:10.398] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (31.531s)! For help, type "help"
 [07Apr2025 22:42:10.412] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[07Apr2025 23:01:28.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[07Apr2025 23:01:28.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1<--[HERE]
+[07Apr2025 23:01:34.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[07Apr2025 23:01:34.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[07Apr2025 23:01:34.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[07Apr2025 23:01:35.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07Apr2025 23:01:37.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[07Apr2025 23:01:37.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[07Apr2025 23:01:37.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07Apr2025 23:01:37.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07Apr2025 23:01:37.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07Apr2025 23:01:37.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
